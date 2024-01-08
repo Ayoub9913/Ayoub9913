@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Ayoub9913
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me : don't
+- 👋 Hi, I’m @Ayoub Mouelhi
+- 👀 I’m interested in Web Technologies
+- 🌱 I’m currently learning Every new web technology
+- 💞️ I’m looking to collaborate on an End of study Engineering Internship
+- 📫 How to reach me : Ayoub.Mouelhi@esprit.tn
 
-<!---
-Ayoub9913/Ayoub9913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
